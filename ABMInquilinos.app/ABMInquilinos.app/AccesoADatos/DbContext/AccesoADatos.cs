@@ -13,7 +13,7 @@ namespace ABMInquilinos.app.AccesoADatos.DbContext
         // Repositorio 
         public AccesoADatos()
         {
-            _connection = new SqlConnection("server=.\\SQLEXPRESS; database=INMOBILIARIA_DB; integrated security=true");
+            _connection = new SqlConnection("Data Source=localhost;Initial Catalog=INMOBILIARIA_DB;Integrated Security=True");
             cmd = new SqlCommand();
         }
         private SqlConnection _connection;

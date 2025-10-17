@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ABMInquilinos.app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1d0b43896af09ad68cbdddb9dae8aa52887ffbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("ABMInquilinos.app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ABMInquilinos.app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

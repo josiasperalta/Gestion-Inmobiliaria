@@ -470,19 +470,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\josia\\.nuget\\packages\\": {}
+    "C:\\Users\\Siaga\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj",
+      "projectUniqueName": "C:\\Users\\Siaga\\OneDrive\\Desktop\\Proyectos TUP\\Inmobiliaria\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj",
       "projectName": "ABMInquilinos.app",
-      "projectPath": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj",
-      "packagesPath": "C:\\Users\\josia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josia\\OneDrive\\Escritorio\\TUP\\Actividades\\PROGRAMACION ACTIVIDADES\\Logica\\1W3_Grupo22_Parte3\\ABMInquilinos.app\\ABMInquilinos.app\\obj\\",
+      "projectPath": "C:\\Users\\Siaga\\OneDrive\\Desktop\\Proyectos TUP\\Inmobiliaria\\ABMInquilinos.app\\ABMInquilinos.app\\ABMInquilinos.app.csproj",
+      "packagesPath": "C:\\Users\\Siaga\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Siaga\\OneDrive\\Desktop\\Proyectos TUP\\Inmobiliaria\\ABMInquilinos.app\\ABMInquilinos.app\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\josia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Siaga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -507,7 +512,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0-windows7.0": {
@@ -537,7 +543,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
