@@ -1,4 +1,4 @@
-# 🏢 Sistema de Gestión Inmobiliaria
+# 🏢 Sistema de Gestión Inmobiliaria 
 
 Sistema de escritorio para la gestión integral de propiedades, clientes y contratos inmobiliarios, desarrollado con tecnologías Microsoft.
 
